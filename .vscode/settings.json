@@ -1,0 +1,38 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "bold",
+          "foreground": "#1695afd5"
+        }
+      },
+      {
+        "scope": "entity.name.type.class",
+        "settings": {
+          "foreground": "#35d74ddb"
+        }
+      },
+      {
+        "scope": "entity.name.function",
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#bb7e2e"
+        }
+      },
+      {
+        "scope": "variable.parameter",
+        "settings": {
+          "foreground": "#427882cf"
+        }
+      },
+      {
+        "scope": "variable",
+        "settings": {
+          "foreground": "#4592bf"
+        }
+      }
+    ]
+  }
+}
